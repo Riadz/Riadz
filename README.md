@@ -1,4 +1,4 @@
-### Hey, I'm Yashraj Jain! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1>
+### Hey, I'm Riad Hachemane! <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"></h1>
 
 <!--
 **Riadz/Riadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
