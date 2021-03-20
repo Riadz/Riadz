@@ -1,7 +1,7 @@
 ### Hey, I'm Riad Hachemane! <img src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/me/assets/hi.gif" width="25px"></h1>
 
 - 🌱 Currently learning: Laravel+Vue stack
-- ⚡  Looking for freelance work (Wordpress, Design to HTML)
+- ⚡  Looking for freelance work (Wordpress, Design to code)
 - 🌐 Check out my portfolio 👉 www.riad-dev.cf
 
 ### Where to find me:
