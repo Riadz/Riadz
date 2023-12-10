@@ -1,7 +1,5 @@
 ### Hey, I'm Riad Hachemane! <img src="https://raw.githubusercontent.com/thomasbnt/thomasbnt/me/assets/hi.gif" width="25px"></h1>
 
-- ⚡ 
-
 ### 
 
 [<img align="left" alt="Riad Hachemane | Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/riad-hachemane-1602181a0/)
